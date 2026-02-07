@@ -4,7 +4,7 @@ CulinAI is a state-of-the-art Generative AI content platform that simplifies the
 
 ## 🚀 Features
 
-* **Recipe Generation**: Utilizes OpenAI's **GPT-4o** to create structured, creative recipes based on user prompts.
+* **Recipe Generation**: Utilizes OpenAI's **GPT-4o** to create structured, creative recipes with integrated context-aware ingredient substitution based on user prompts.
 * **AI Image Synthesis**: Integrated with **DALL-E 3** to generate photorealistic imagery of the final dish.
 * **Modular Service Architecture**: Decoupled logic into specialized `ImageService`, `RecipeService`, and `ChatService` for high maintainability.
 * **Responsive UI**: A modern **React** frontend that facilitates real-time, asynchronous content generation.
